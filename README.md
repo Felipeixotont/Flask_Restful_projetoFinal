@@ -1,4 +1,6 @@
-# Primeiro criamos a estrutura do nosso Banco de Dados utilizando SQLAlchemy.
+# Criando nosso Banco de Dados.
+
+Primeiro criamos a estrutura do nosso Banco de Dados utilizando SQLAlchemy.
 
 <p>Nosso banco terá as tabelas:</p>
 <ul>
@@ -8,7 +10,7 @@
 
 ![models](https://user-images.githubusercontent.com/43455579/134429097-35c6223d-9e33-4874-a103-c29a98c84e55.png)
 
-# Criamos agora as tabelas e preenchemos algumas informações para teste.
+# Criando as tabelas e inserindo informações para teste.
 
 ![utils](https://user-images.githubusercontent.com/43455579/134429806-cb9ad488-7717-45ea-a574-0fd3cf9ec5a6.png)
 
