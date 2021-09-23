@@ -11,13 +11,13 @@ Primeiro criamos a estrutura do nosso Banco de Dados utilizando SQLAlchemy.
 
 <h6 align="center">Arquivo Models</h6>
 
-![models](https://user-images.githubusercontent.com/43455579/134429097-35c6223d-9e33-4874-a103-c29a98c84e55.png)
+![carbon (1)](https://user-images.githubusercontent.com/43455579/134454567-24a4f640-8db7-4868-8f79-de0d37c66824.png)
 
 <h3 align="center"> Criando as tabelas e inserindo informações para teste. </h3>
 <hr>
 <h6 align="center">Arquivo Utils</h6>
 
-![utils](https://user-images.githubusercontent.com/43455579/134429806-cb9ad488-7717-45ea-a574-0fd3cf9ec5a6.png)
+![carbon](https://user-images.githubusercontent.com/43455579/134454520-1e50e582-9167-4fee-ad6a-c6dfdafe2647.png)
 
 <h3 align="center"> Conferindo os dados atuais da nossa tabela. </h3>
 <hr>
